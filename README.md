@@ -10,7 +10,7 @@
 | 23.01.14 | [b2178](https://www.acmicpc.net/problem/2178)|미로탐색| BFS, DFS|silver 1|[📘](백준/b2178_미로탐색.md)| [💻](백준/b2178_미로탐색.java)|❌|
 | 23.01.17 | [b2493](https://www.acmicpc.net/problem/2493)|탑| 자료구조, Stack|gold 5|[📘](백준/b2493_탑.md)| [💻](백준/b2493_탑.java)|🔺|
 | 23.01.18 | [b20006](https://www.acmicpc.net/problem/20006)|랭킹전 대기열| 구현, 시뮬레이션|silver 2|[📘](백준/b20006_탑.md)| [💻](백준/b20006_탑.java)|⭕️|
-| 23.01.29 | [b20125](https://www.acmicpc.net/problem/20125)|쿠키의 신체측정| 구현, 시뮬레이션|silver 4|[📘](백준/b20125_쿠키의신체측정.md)| [💻](백준/b20125_쿠키의신체측정.java)|⭕️|
+| 23.01.29 | [b20125](https://www.acmicpc.net/problem/20125)|쿠키의 신체측정| 구현, 시뮬레이션|silver 4|[📘](백준/b20125_쿠키의신체측정.md)| [💻](백준/b20125_쿠키의신체측정.java)|❌|
 
 ## 커밋 규칙
 
