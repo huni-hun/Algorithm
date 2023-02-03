@@ -15,6 +15,7 @@
 | 23.02.02 | [b19637](https://www.acmicpc.net/problem/19637)|IF문 좀 대신 써줘| 이분탐색|silver 3|[📘](백준/b19637_IF문좀대신써줘.md)| [💻](백준/b19637_IF문좀대신써줘.java)|🔺|
 | 23.02.03 | [b1590](https://www.acmicpc.net/problem/1590)|캠프가는영식| 이분탐색|silver 4|[📘](백준/b1590_캠프가는영식.md)| [💻](백준/b1590_캠프가는영식.java)|🔺|
 | 23.02.03 | [b7569](https://www.acmicpc.net/problem/7569)|토마토| BFS, DFS|gold 4|[📘](백준/b7569_토마토.md)| [💻](백준/b7569_토마토.java)|❌|
+| 23.02.03 | [b7795](https://www.acmicpc.net/problem/7795)|먹을 것인가 먹힐 것인가| 이분탐색|silver 3|[📘](백준/b7795_먹을것인가먹힐것인가.md)| [💻](백준/b7569_먹을것인가먹힐것인가.java)|❌|
 
 ## 커밋 규칙
 
