@@ -2,15 +2,15 @@
 개인공부
 
 #### Problem List
-
+### 백준
 | 날짜     | 번호                                             | 문제                | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
 | -------- | ------------------------------------------------ | ------------------| --------|---| :----: | :-----: | :--: |
 | 23.01.10 | [b2583](https://www.acmicpc.net/problem/2583)|영역 구하기|  BFS, DFS |silver 1|[📘](백준/b2583_영역구하기.md)| [💻](백준/b2583_영역구하기.java)|❌|
 | 23.01.11 | [b1697](https://www.acmicpc.net/problem/1697)|숨바꼭질| BFS, DFS|silver 1|[📘](백준/b1697_숨바꼭질.md)| [💻](백준/b1697_숨바꼭질.java)|❌|
 | 23.01.14 | [b2178](https://www.acmicpc.net/problem/2178)|미로탐색| BFS, DFS|silver 1|[📘](백준/b2178_미로탐색.md)| [💻](백준/b2178_미로탐색.java)|❌|
-| 23.01.17 | [b2493](https://www.acmicpc.net/problem/2493)|탑| 자료구조, Stack|gold 5|[📘](백준/b2493_탑.md)| [💻](백준/b2493_탑.java)|🔺|
-| 23.01.18 | [b20006](https://www.acmicpc.net/problem/20006)|랭킹전 대기열| 구현, 시뮬레이션|silver 2|[📘](백준/b20006_랭킹전대기열.md)| [💻](백준/b20006_랭킹전대기열.java)|⭕️|
-| 23.01.29 | [b20125](https://www.acmicpc.net/problem/20125)|쿠키의 신체측정| 구현, 시뮬레이션|silver 4|[📘](백준/b20125_쿠키의신체측정.md)| [💻](백준/b20125_쿠키의신체측정.java)|❌|
+| 23.01.17 | [b2493](https://www.acmicpc.net/problem/2493)|탑| 자료구조 |gold 5|[📘](백준/b2493_탑.md)| [💻](백준/b2493_탑.java)|🔺|
+| 23.01.18 | [b20006](https://www.acmicpc.net/problem/20006)|랭킹전 대기열| 구현 |silver 2|[📘](백준/b20006_랭킹전대기열.md)| [💻](백준/b20006_랭킹전대기열.java)|⭕️|
+| 23.01.29 | [b20125](https://www.acmicpc.net/problem/20125)|쿠키의 신체측정| 구현 |silver 4|[📘](백준/b20125_쿠키의신체측정.md)| [💻](백준/b20125_쿠키의신체측정.java)|❌|
 | 23.02.01 | [b2468](https://www.acmicpc.net/problem/2468)|안전영역| BFS, DFS|silver 1|[📘](백준/b2468_안전영역.md)| [💻](백준/b2468_안전영역.java)|❌|
 | 23.02.02 | [b19637](https://www.acmicpc.net/problem/19637)|IF문 좀 대신 써줘| 이분탐색|silver 3|[📘](백준/b19637_IF문좀대신써줘.md)| [💻](백준/b19637_IF문좀대신써줘.java)|🔺|
 | 23.02.03 | [b1590](https://www.acmicpc.net/problem/1590)|캠프가는영식| 이분탐색|silver 4|[📘](백준/b1590_캠프가는영식.md)| [💻](백준/b1590_캠프가는영식.java)|🔺|
@@ -18,6 +18,12 @@
 | 23.02.03 | [b7795](https://www.acmicpc.net/problem/7795)|먹을 것인가 먹힐 것인가| 이분탐색|silver 3|[📘](백준/b7795_먹을것인가먹힐것인가.md)| [💻](백준/b7569_먹을것인가먹힐것인가.java)|❌|
 | 23.02.14 | [b15686](https://www.acmicpc.net/problem/15686)|치킨배달| BFS, DFS/구현/순조부 |gold 5|[📘](백준/b15686_치킨배달.md)| [💻](백준/b15686_치킨배달.java)|⭕️|
 | 23.02.14 | [b3055](https://www.acmicpc.net/problem/3055)|탈출| BFS, DFS |gold 4|[📘](백준/b3055_탈출.md)| [💻](백준/b3055_탈출.java)|❌|
+
+### softeer
+| 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
+| -------- | ------------------------------------------------ | --------|---| :----: | :-----: | :--: |
+| 23.02.16 | [성적 평가](https://softeer.ai/practice/info.do?idx=1&eid=1309)|  자료구조/구현 |:star::star::star:|[📘](softeer/softeer_성적평가.md)| [💻](백준/softeer_성적평가.java)|⭕️|
+| 23.02.16 | [금고털이](https://softeer.ai/practice/info.do?idx=1&eid=395)| 구현 |:star::star:|[📘](softeer/softeer_금고털이.md)| [💻](백준/softeer_금고털이.java)|❌|
 
 ## 커밋 규칙
 
