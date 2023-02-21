@@ -18,6 +18,7 @@
 | 23.02.03 | [b7795](https://www.acmicpc.net/problem/7795)|먹을 것인가 먹힐 것인가| 이분탐색|silver 3|[📘](백준/b7795_먹을것인가먹힐것인가.md)| [💻](백준/b7569_먹을것인가먹힐것인가.java)|❌|
 | 23.02.14 | [b15686](https://www.acmicpc.net/problem/15686)|치킨배달| BFS, DFS/구현/순조부 |gold 5|[📘](백준/b15686_치킨배달.md)| [💻](백준/b15686_치킨배달.java)|⭕️|
 | 23.02.14 | [b3055](https://www.acmicpc.net/problem/3055)|탈출| BFS, DFS |gold 4|[📘](백준/b3055_탈출.md)| [💻](백준/b3055_탈출.java)|❌|
+| 23.02.21 | [b11724](https://www.acmicpc.net/problem/11724)|연결 요소의 개수| 그래프이론/BFS, DFS |silver 2|[📘](백준/b11724_연결요소의개수.md)| [💻](백준/b11724_연결요소의개수.java)|🔺|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
