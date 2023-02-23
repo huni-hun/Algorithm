@@ -22,6 +22,7 @@
 | 23.02.21 | [b1707](https://www.acmicpc.net/problem/1707)|이분 그래프| 그래프이론/BFS, DFS |gold 4|[📘](백준/b1707_이분그래프.md)| [💻](백준/b1707_이분그래프.java)|⭕️|
 | 23.02.23 | [b10451](https://www.acmicpc.net/problem/10451)|순열 사이클| 그래프이론/BFS, DFS|silver 3|[📘](백준/b10451_순열사이클.md)| [💻](백준/b10451_순열사이클.java)|❌|
 | 23.02.23 | [b2331](https://www.acmicpc.net/problem/2331)|반복수열| 수학/구현|silver 4|[📘](백준/b2331_반복수열.md)| [💻](백준/b2331_반복수열.java)|❌|
+| 23.02.23 | [b9466](https://www.acmicpc.net/problem/9466)|텀 프로젝트| 그래프이론/BFS, DFS |gold 3|[📘](백준/b9466_텀프로젝트.md)| [💻](백준/b9466_텀프로젝트.java)|⭕️|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
