@@ -26,7 +26,7 @@
 | 23.02.24 | [b2667](https://www.acmicpc.net/problem/2667)|단지번호| BFS, DFS|silver 1|[📘](백준/b2667_단지번호.md)| [💻](백준/b2667_단지번호.java)|❌|
 | 23.02.24 | [b2146](https://www.acmicpc.net/problem/2146)|다리만들기| BFS, DFS|golde 3|[📘](백준/b2146_다리만들기.md)| [💻](백준/b2146_다리만들기.java)|❌|
 | 23.02.27 | [b1991](https://www.acmicpc.net/problem/1991)|트리순회| 자료구조/트리 |silver 1|[📘](백준/b1991_트리순회.md)| [💻](백준/b1991_트리순회.java)|⭕️|
-| 23.02.27 | [b11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기| 그래프이론/BFS, DFS/트리 |silver 2|[📘](백준/b11725_트리의부모찾기.md)| [💻](백준/b11725_트리의부모찾기.java)|⭕️|
+| 23.02.27 | [b11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기| 그래프이론/BFS, DFS/트리 |silver 2|[📘](백준/b11725_트리의부모찾기.md)| [💻](백준/b11725_트리의부모찾기.java)|❌|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
