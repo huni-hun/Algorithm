@@ -15,7 +15,7 @@
 | 23.02.02 | [b19637](https://www.acmicpc.net/problem/19637)|IF문 좀 대신 써줘| 이분탐색|silver 3|[📘](백준/b19637_IF문좀대신써줘.md)| [💻](백준/b19637_IF문좀대신써줘.java)|🔺|
 | 23.02.03 | [b1590](https://www.acmicpc.net/problem/1590)|캠프가는영식| 이분탐색|silver 4|[📘](백준/b1590_캠프가는영식.md)| [💻](백준/b1590_캠프가는영식.java)|🔺|
 | 23.02.03 | [b7569](https://www.acmicpc.net/problem/7569)|토마토| BFS, DFS|gold 4|[📘](백준/b7569_토마토.md)| [💻](백준/b7569_토마토.java)|❌|
-| 23.02.03 | [b7795](https://www.acmicpc.net/problem/7795)|먹을 것인가 먹힐 것인가| 이분탐색|silver 3|[📘](백준/b7795_먹을것인가먹힐것인가.md)| [💻](백준/b7569_먹을것인가먹힐것인가.java)|❌|
+| 23.02.03 | [b7795](https://www.acmicpc.net/problem/7795)|먹을 것인가 먹힐 것인가| 이분탐색|silver 3|[📘](백준/b7795_먹을것인가먹힐것인가.md)| [💻](백준/b7795_먹을것인가먹힐것인가.java)|❌|
 | 23.02.14 | [b15686](https://www.acmicpc.net/problem/15686)|치킨배달| BFS, DFS/구현/순조부 |gold 5|[📘](백준/b15686_치킨배달.md)| [💻](백준/b15686_치킨배달.java)|⭕️|
 | 23.02.14 | [b3055](https://www.acmicpc.net/problem/3055)|탈출| BFS, DFS |gold 4|[📘](백준/b3055_탈출.md)| [💻](백준/b3055_탈출.java)|❌|
 | 23.02.21 | [b11724](https://www.acmicpc.net/problem/11724)|연결 요소의 개수| 그래프이론/BFS, DFS |silver 2|[📘](백준/b11724_연결요소의개수.md)| [💻](백준/b11724_연결요소의개수.java)|🔺|
@@ -29,6 +29,7 @@
 | 23.02.27 | [b11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기| 그래프이론/BFS, DFS/트리 |silver 2|[📘](백준/b11725_트리의부모찾기.md)| [💻](백준/b11725_트리의부모찾기.java)|❌|
 | 23.02.28 | [b1967](https://www.acmicpc.net/problem/1967)|트리의 지름| BFS, DFS/트리 |gold 4|[📘](백준/b1967_트리의지름.md)| [💻](백준/b1967_트리의지름.java)|❌|
 | 23.02.28 | [b1167](https://www.acmicpc.net/problem/1167)|트리의 지름| BFS, DFS/트리 |gold 2|[📘](백준/b1167_트리의지름.md)| [💻](백준/b1167_트리의지름.java)|❌|
+| 23.03.06 | [b1654](https://www.acmicpc.net/problem/1654)|랜선자르기| 이분탐색 |silver 2|[📘](백준/b1654_랜선자르기.md)| [💻](백준/b1654_랜선자르기.java)|❌|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
