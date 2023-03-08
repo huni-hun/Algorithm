@@ -31,6 +31,7 @@
 | 23.02.28 | [b1167](https://www.acmicpc.net/problem/1167)|트리의 지름| BFS, DFS/트리 |gold 2|[📘](백준/b1167_트리의지름.md)| [💻](백준/b1167_트리의지름.java)|❌|
 | 23.03.06 | [b1654](https://www.acmicpc.net/problem/1654)|랜선자르기| 이분탐색 |silver 2|[📘](백준/b1654_랜선자르기.md)| [💻](백준/b1654_랜선자르기.java)|❌|
 | 23.03.06 | [b2805](https://www.acmicpc.net/problem/2805)|나무자르기| 이분탐색 |silver 2|[📘](백준/b2805_나무자르기.md)| [💻](백준/b1654_나무자르기.java)|❌|
+| 23.03.08 | [b10816](https://www.acmicpc.net/problem/10816)|숫자카드2| 이분탐색 |silver 4|[📘](백준/b10816_숫자카드2.md)| [💻](백준/b10816_숫자카드2.java)|❌|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
