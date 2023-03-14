@@ -35,7 +35,8 @@
 | 23.03.09 | [b2110](https://www.acmicpc.net/problem/2110)|공유기설치| 이분탐색 |gold 4|[📘](백준/b2110_공유기설치.md)| [💻](백준/b2110_공유기설치.java)|❌|
 | 23.03.10 | [b10815](https://www.acmicpc.net/problem/10815)|숫자카드| 이분탐색 |silver 5|[📘](백준/b10815_숫자카드.md)| [💻](백준/b10815_숫자카드.java)|❌|
 | 23.03.13 | [b11728](https://www.acmicpc.net/problem/11728)|배열합치기| 분할정복 |silver 5|[📘](백준/b11728_배열합치기.md)| [💻](백준/b11728_배열합치기.java)|❌|
-| 23.03.13 | [b1780](https://www.acmicpc.net/problem/1780)|종이의개수| 분할정복 |silver 2|[📘](백준/b1780_종이의개수.md)| [💻](백준/b1780_종이의개수.java)|❌|
+| 23.03.13 | [b1780](https://www.acmicpc.net/problem/1780)|종이의개수| 분할정복 |silver 2|[📘](백준/b1780_종이의개수.md)| [💻](백준/b1780_종이의개수.java)|⭕️|
+| 23.03.14 | [b1992](https://www.acmicpc.net/problem/1992)|쿼드트리| 분할정복 |silver 1|[📘](백준/b1992_쿼드트리.md)| [💻](백준/b1992_쿼드트리.java)|❌|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
