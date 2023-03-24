@@ -43,6 +43,7 @@
 | 23.03.22 | [b1783](https://www.acmicpc.net/problem/1783)|병든 나이트| 그리디 |silver 3|[📘](백준/b1783_병든나이트.md)| [💻](백준/b1783_병든나이트.java)|❌|
 | 23.03.23 | [b1931](https://www.acmicpc.net/problem/1931)|회의실 배정| 그리디 |silver 1|[📘](백준/b1931_회의실배정.md)| [💻](백준/b1931_회의실배정.java)|❌|
 | 23.03.23 | [b1744](https://www.acmicpc.net/problem/1744)|수묶기| 그리디 |gold 4|[📘](백준/b1744_수묶기.md)| [💻](백준/b1744_수묶기.java)|❌|
+| 23.03.24 | [b1476](https://www.acmicpc.net/problem/1476)|날짜계산| 완전탐색 |silver 5|[📘](백준/b1476_날짜계산.md)| [💻](백준/b1476_날짜계산.java)|❌|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
