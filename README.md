@@ -32,7 +32,7 @@
 | 23.03.06 | [b1654](https://www.acmicpc.net/problem/1654)|랜선자르기| 이분탐색 |silver 2|[📘](백준/b1654_랜선자르기.md)| [💻](백준/b1654_랜선자르기.java)|❌|
 | 23.03.06 | [b2805](https://www.acmicpc.net/problem/2805)|나무자르기| 이분탐색 |silver 2|[📘](백준/b2805_나무자르기.md)| [💻](백준/b1654_나무자르기.java)|❌|
 | 23.03.08 | [b10816](https://www.acmicpc.net/problem/10816)|숫자카드2| 이분탐색 |silver 4|[📘](백준/b10816_숫자카드2.md)| [💻](백준/b10816_숫자카드2.java)|❌|
-| 23.03.09 | [b2110](https://www.acmicpc.net/problem/2110)|공유기설치| 이분탐색 |gold 4|[📘](백준/b2110_공유기설치.md)| [💻](백준/b2110_공유기설치.java)|❌|
+| 23.03.09 | [b2110](https://www.acmicpc.net/problem/2110)|공유기설치| 이분탐색 |gold 4|[📘](백준/b2110_공유기.md)| [💻](백준/b2110_공유기.java)|❌|
 | 23.03.10 | [b10815](https://www.acmicpc.net/problem/10815)|숫자카드| 이분탐색 |silver 5|[📘](백준/b10815_숫자카드.md)| [💻](백준/b10815_숫자카드.java)|❌|
 | 23.03.13 | [b11728](https://www.acmicpc.net/problem/11728)|배열합치기| 분할정복 |silver 5|[📘](백준/b11728_배열합치기.md)| [💻](백준/b11728_배열합치기.java)|❌|
 | 23.03.13 | [b1780](https://www.acmicpc.net/problem/1780)|종이의개수| 분할정복 |silver 2|[📘](백준/b1780_종이의개수.md)| [💻](백준/b1780_종이의개수.java)|⭕️|
