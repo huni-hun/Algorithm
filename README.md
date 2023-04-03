@@ -51,6 +51,7 @@
 | 23.03.29 | [b1963](https://www.acmicpc.net/problem/1963)|소수경로| 완전탐색 |gold 4|[📘](백준/b1963_소수경로.md)| [💻](백준/b1963_소수경로.java)|⭕️|
 | 23.03.29 | [b9019](https://www.acmicpc.net/problem/9019)|DSLR| 완전탐색 |gold 4|[📘](백준/b9019_DSLR.md)| [💻](백준/b9019_DSLR.java)|❌|
 | 23.03.30 | [b2251](https://www.acmicpc.net/problem/2251)|물통| 완전탐색 |gold 5|[📘](백준/b2251_물통.md)| [💻](백준/b2251_물통.java)|❌|
+| 23.04.03 | [b2186](https://www.acmicpc.net/problem/2186)|문자판| 완전탐색/DP |gold 3|[📘](백준/b2186_문자판.md)| [💻](백준/b2186_.java)|⭕️|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
