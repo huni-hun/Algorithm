@@ -53,6 +53,7 @@
 | 23.03.30 | [b2251](https://www.acmicpc.net/problem/2251)|물통| 완전탐색 |gold 5|[📘](백준/b2251_물통.md)| [💻](백준/b2251_물통.java)|❌|
 | 23.04.03 | [b2186](https://www.acmicpc.net/problem/2186)|문자판| 완전탐색/DP |gold 3|[📘](백준/b2186_문자판.md)| [💻](백준/b2186_.java)|⭕️|
 | 23.04.04 | [b5014](https://www.acmicpc.net/problem/5014)|스타트링크| 완전탐색 |sliver 1|[📘](백준/b5014_스타트링크.md)| [💻](백준/b5014_스타트링크.java)|❌|
+| 23.04.05 | [b16509](https://www.acmicpc.net/problem/16509)|장군| 구현/BFS, DFS |gold 5|[📘](백준/b16509_장군.md)| [💻](백준/b16509_장군.java)|❌|
 
 ### 프로그래머스
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
