@@ -71,6 +71,7 @@
 | 23.04.18 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)| 완전탐색 |Level 2|[📘](프로그래머스/프로그래머스_카펫.md)| [💻](프로그래머스/프로그래머스_카펫.java)|❌|
 | 23.04.18 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)| 완전탐색 |Level 2|[📘](프로그래머스/프로그래머스_피로도.md)| [💻](프로그래머스/프로그래머스_피로도.java)|❌|
 | 23.04.18 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)| 그래프이론/완전탐색 |Level 2|[📘](프로그래머스/프로그래머스_전력망을둘로나누기.md)| [💻](프로그래머스/프로그래머스_전력망을둘로나누기.java)|🔺|
+| 23.04.18 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)| 완전탐색 |Level 2|[📘](프로그래머스/프로그래머스_모음사전.md)| [💻](프로그래머스/프로그래머스_모음사전.java)|❌|
 
 ### softeer
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
