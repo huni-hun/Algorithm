@@ -1,8 +1,13 @@
 # Algorithm
-개인공부
+알고리즘 개인공부
 
 #### Problem List
-### 백준
+<details>
+  <summary>📁 백준 (50문제)</summary>
+  </br>
+  
+<div markdown="1">
+
 | 날짜     | 번호                                             | 문제                | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
 | -------- | ------------------------------------------------ | ------------------| --------|---| :----: | :-----: | :--: |
 | 23.01.10 | [b2583](https://www.acmicpc.net/problem/2583)|영역 구하기|  BFS, DFS |silver 1|[📘](백준/b2583_영역구하기.md)| [💻](백준/b2583_영역구하기.java)|❌|
@@ -55,8 +60,15 @@
 | 23.04.04 | [b5014](https://www.acmicpc.net/problem/5014)|스타트링크| 완전탐색 |sliver 1|[📘](백준/b5014_스타트링크.md)| [💻](백준/b5014_스타트링크.java)|❌|
 | 23.04.05 | [b16509](https://www.acmicpc.net/problem/16509)|장군| 구현/BFS, DFS |gold 5|[📘](백준/b16509_장군.md)| [💻](백준/b16509_장군.java)|❌|
 | 23.04.11 | [b2174](https://www.acmicpc.net/problem/2174)|로봇 시뮬레이션| 구현 |gold 5|[📘](백준/b2174_로봇시뮬레이션.md)| [💻](백준/b2174_로봇시뮬레이션.java)|❌|
+</div>
+</details>
 
-### 프로그래머스
+<details>
+  <summary>📁 프로그래머스 (14문제)</summary>
+  </br>
+  
+<div markdown="1">
+
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
 | -------- | ------------------------------------------------ | --------|---| :----: | :-----: | :--: |
 | 23.03.15 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| DFS/BFS |Level 2|[📘](프로그래머스/프로그래머스_타겟넘버.md)| [💻](프로그래머스/프로그래머스_타겟넘버.java)|❌|
@@ -74,13 +86,34 @@
 | 23.04.18 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)| 완전탐색 |Level 2|[📘](프로그래머스/프로그래머스_모음사전.md)| [💻](프로그래머스/프로그래머스_모음사전.java)|❌|
 | 23.04.19 | [단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| DFS/BFS |Level 3|[📘](프로그래머스/프로그래머스_단어변환.md)| [💻](프로그래머스/프로그래머스_단어변환.java)|❌|
 
-### softeer
+</div>
+</details>
+
+<details>
+  <summary>📁 소프티어 (2문제)</summary>
+  </br>
+  
+<div markdown="1">
+
 | 날짜     | 링크                                             | 분류 |난이도|느낀점 |코드 |한번 더 풀어보기|
 | -------- | ------------------------------------------------ | --------|---| :----: | :-----: | :--: |
 | 23.02.16 | [성적 평가](https://softeer.ai/practice/info.do?idx=1&eid=1309)|  자료구조/구현 |:star::star::star:|[📘](softeer/softeer_성적평가.md)| [💻](softeer/softeer_성적평가.java)|⭕️|
 | 23.02.16 | [금고털이](https://softeer.ai/practice/info.do?idx=1&eid=395)| 구현 |:star::star:|[📘](softeer/softeer_금고털이.md)| [💻](softeer/softeer_금고털이.java)|❌|
 
+</div>
+</details>
 
+## 이슈
+- [1] DFS & BFS [🔗](https://github.com/huni-hun/Algorithm/issues/1)
+- [2] 자료구조 [🔗](https://github.com/huni-hun/Algorithm/issues/2)
+- [3] 구현/시뮬레이션 [🔗](https://github.com/huni-hun/Algorithm/issues/3)
+- [4] 이분탐색 [🔗](https://github.com/huni-hun/Algorithm/issues/4)
+- [5] 순열/조합/부분집합 [🔗](https://github.com/huni-hun/Algorithm/issues/5)
+- [6] 분할정복 [🔗](https://github.com/huni-hun/Algorithm/issues/6)
+- [7] 그리디 [🔗](https://github.com/huni-hun/Algorithm/issues/7)
+- [8] 완전탐색 [🔗](https://github.com/huni-hun/Algorithm/issues/8)
+- [9] DP [🔗](https://github.com/huni-hun/Algorithm/issues/9)
+- [10] 정렬 [🔗](https://github.com/huni-hun/Algorithm/issues/10)
 
 ## 커밋 규칙
 
@@ -92,3 +125,9 @@
 ### Keyword
 - `solve`: 풀이에 성공한 새 문제 추가
 - `docs`: readme 등 문서 수정
+
+## 문제 출처
+
+- 백준 Baekjoon [🔗](https://www.acmicpc.net/)
+- 프로그래머스 Programmers [🔗](https://programmers.co.kr/learn/challenges)
+- 소프티어[🔗](https://softeer.ai/practice/index.do)
