@@ -89,6 +89,7 @@
 | 23.04.18 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             | 완전탐색            | Level 2 |      [📘](프로그래머스/프로그래머스_모음사전.md)      |      [💻](프로그래머스/프로그래머스_모음사전.java)      |        ❌        |
 | 23.04.19 | [단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)             | DFS/BFS             | Level 3 |      [📘](프로그래머스/프로그래머스_단어변환.md)      |      [💻](프로그래머스/프로그래머스_단어변환.java)      |        ❌        |
 | 23.04.20 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)             | DFS/BFS             | Level 3 |      [📘](프로그래머스/프로그래머스_여행경로.md)      |      [💻](프로그래머스/프로그래머스_여행경로.java)      |        ❌        |
+| 23.04.20 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)             | 자료구조            | Level 2 |      [📘](프로그래머스/프로그래머스_기능개발.md)      |      [💻](프로그래머스/프로그래머스_기능개발.java)      |        ❌        |
 
 </div>
 </details>
