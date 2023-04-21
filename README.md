@@ -91,6 +91,7 @@
 | 23.04.20 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)             | DFS/BFS             | Level 3 |      [📘](프로그래머스/프로그래머스_여행경로.md)      |      [💻](프로그래머스/프로그래머스_여행경로.java)      |        ❌        |
 | 23.04.20 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)             | 자료구조            | Level 2 |      [📘](프로그래머스/프로그래머스_기능개발.md)      |      [💻](프로그래머스/프로그래머스_기능개발.java)      |        ❌        |
 | 23.04.20 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)               | 자료구조            | Level 2 |       [📘](프로그래머스/프로그래머스_프린터.md)       |       [💻](프로그래머스/프로그래머스_프린터.java)       |        ❌        |
+| 23.04.21 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)   | 자료구조/큐         | Level 2 |  [📘](프로그래머스/프로그래머스_다리를지나는트럭.md)  |  [💻](프로그래머스/프로그래머스_다리를지나는트럭.java)  |        ❌        |
 
 </div>
 </details>
