@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (51문제)</summary>
+  <summary>📁 백준 (52문제)</summary>
   </br>
   
 <div markdown="1">
@@ -63,12 +63,13 @@
 | 23.04.05 | [b16509](https://www.acmicpc.net/problem/16509) | 장군                    | 구현/BFS, DFS            | gold 5   |        [📘](백준/b16509_장군.md)         |        [💻](백준/b16509_장군.java)         |        ❌        |
 | 23.04.11 | [b2174](https://www.acmicpc.net/problem/2174)   | 로봇 시뮬레이션         | 구현                     | gold 5   |    [📘](백준/b2174_로봇시뮬레이션.md)    |    [💻](백준/b2174_로봇시뮬레이션.java)    |        ❌        |
 | 23.04.25 | [b22251](https://www.acmicpc.net/problem/22251) | 빌런 호석               | 구현/완전탐색            | gold 5   |      [📘](백준/b22251_빌런호석.md)       |      [💻](백준/b22251_빌런호석.java)       |       ⭕️        |
+| 23.04.26 | [b2668](https://www.acmicpc.net/problem/2668)   | 숫자고르기              | BFS, DFS                 | gold 5   |      [📘](백준/b2668_숫자고르기.md)      |      [💻](백준/b2668_숫자고르기.java)      |       ⭕️        |
 
 </div>
 </details>
 
 <details>
-  <summary>📁 프로그래머스 (20문제)</summary>
+  <summary>📁 프로그래머스 (19문제)</summary>
   </br>
   
 <div markdown="1">
