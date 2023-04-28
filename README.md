@@ -64,6 +64,7 @@
 | 23.04.11 | [b2174](https://www.acmicpc.net/problem/2174)   | 로봇 시뮬레이션         | 구현                     | gold 5   |    [📘](백준/b2174_로봇시뮬레이션.md)    |    [💻](백준/b2174_로봇시뮬레이션.java)    |        ❌        |
 | 23.04.25 | [b22251](https://www.acmicpc.net/problem/22251) | 빌런 호석               | 구현/완전탐색            | gold 5   |      [📘](백준/b22251_빌런호석.md)       |      [💻](백준/b22251_빌런호석.java)       |       ⭕️        |
 | 23.04.26 | [b2668](https://www.acmicpc.net/problem/2668)   | 숫자고르기              | BFS, DFS                 | gold 5   |      [📘](백준/b2668_숫자고르기.md)      |      [💻](백준/b2668_숫자고르기.java)      |       ⭕️        |
+| 23.04.28 | [b1912](https://www.acmicpc.net/problem/1912)   | 연속합                  | DP                       | silver 2 |        [📘](백준/b1912_연속합.md)        |        [💻](백준/b1912_연속합.java)        |        ❌        |
 
 </div>
 </details>
