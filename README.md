@@ -73,7 +73,7 @@
 </details>
 
 <details>
-  <summary>📁 프로그래머스 (20문제)</summary>
+  <summary>📁 프로그래머스 (21문제)</summary>
   </br>
   
 <div markdown="1">
@@ -100,6 +100,7 @@
 | 23.04.21 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)   | 자료구조/큐         | Level 2 |  [📘](프로그래머스/프로그래머스_다리를지나는트럭.md)  |  [💻](프로그래머스/프로그래머스_다리를지나는트럭.java)  |        ❌        |
 | 23.04.24 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)             | 자료구조/스택       | Level 2 |      [📘](프로그래머스/프로그래머스_주식가격.md)      |      [💻](프로그래머스/프로그래머스_주식가격.java)      |        ❌        |
 | 23.05.03 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)              | 자료구조/우선순위큐 | Level 2 |       [📘](프로그래머스/프로그래머스_더맵게.md)       |       [💻](프로그래머스/프로그래머스_더맵게.java)       |        ❌        |
+| 23.05.03 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)      | 자료구조/우선순위큐 | Level 3 |   [📘](프로그래머스/프로그래머스_디스크컨트롤러.md)   |   [💻](프로그래머스/프로그래머스_디스크컨트롤러.java)   |       ⭕️        |
 
 </div>
 </details>
