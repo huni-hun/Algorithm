@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (55문제)</summary>
+  <summary>📁 백준 (56문제)</summary>
   </br>
   
 <div markdown="1">
@@ -67,6 +67,7 @@
 | 23.04.28 | [b1912](https://www.acmicpc.net/problem/1912)   | 연속합                  | DP                       | silver 2 |        [📘](백준/b1912_연속합.md)        |        [💻](백준/b1912_연속합.java)        |        ❌        |
 | 23.05.01 | [b16953](https://www.acmicpc.net/problem/16953) | A to B                  | BFS/DFS                  | silver 2 |        [📘](백준/b16953_AtoB.md)         |        [💻](백준/b16953_AtoB.java)         |        ❌        |
 | 23.05.02 | [b17136](https://www.acmicpc.net/problem/17136) | 색종이 붙이기           | 완전탐색                 | gold 2   |    [📘](백준/b17136_색종이붙이기.md)     |    [💻](백준/b17136_색종이붙이기.java)     |       ⭕️        |
+| 23.05.03 | [b16434](https://www.acmicpc.net/problem/16434) | 던전 앤 드래곤          | 구현                     | gold 4   |    [📘](백준/b16434_던전앤드래곤.md)     |    [💻](백준/b16434_던전앤드래곤.java)     |       ⭕️        |
 
 </div>
 </details>
