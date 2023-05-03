@@ -68,6 +68,7 @@
 | 23.05.01 | [b16953](https://www.acmicpc.net/problem/16953) | A to B                  | BFS/DFS                  | silver 2 |        [📘](백준/b16953_AtoB.md)         |        [💻](백준/b16953_AtoB.java)         |        ❌        |
 | 23.05.02 | [b17136](https://www.acmicpc.net/problem/17136) | 색종이 붙이기           | 완전탐색                 | gold 2   |    [📘](백준/b17136_색종이붙이기.md)     |    [💻](백준/b17136_색종이붙이기.java)     |       ⭕️        |
 | 23.05.03 | [b16434](https://www.acmicpc.net/problem/16434) | 던전 앤 드래곤          | 구현                     | gold 4   |    [📘](백준/b16434_던전앤드래곤.md)     |    [💻](백준/b16434_던전앤드래곤.java)     |       ⭕️        |
+| 23.05.03 | [b9012](https://www.acmicpc.net/problem/9012)   | 괄호                    | 자료구조/스택            | silver 4 |         [📘](백준/b9012_괄호.md)         |         [💻](백준/b9012_괄호.java)         |        ❌        |
 
 </div>
 </details>
