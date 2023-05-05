@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (57문제)</summary>
+  <summary>📁 백준 (58문제)</summary>
   </br>
   
 <div markdown="1">
@@ -70,6 +70,7 @@
 | 23.05.03 | [b16434](https://www.acmicpc.net/problem/16434) | 던전 앤 드래곤          | 구현                     | gold 4   |    [📘](백준/b16434_던전앤드래곤.md)     |    [💻](백준/b16434_던전앤드래곤.java)     |       ⭕️        |
 | 23.05.03 | [b9012](https://www.acmicpc.net/problem/9012)   | 괄호                    | 자료구조/스택            | silver 4 |         [📘](백준/b9012_괄호.md)         |         [💻](백준/b9012_괄호.java)         |        ❌        |
 | 23.05.04 | [b2559](https://www.acmicpc.net/problem/2559)   | 수열                    | 구현                     | silver 3 |         [📘](백준/b2559_수열.md)         |         [💻](백준/b2559_수열.java)         |        ❌        |
+| 23.05.05 | [b12851](https://www.acmicpc.net/problem/12851) | 숨바꼭질2               | BFS/DFS                  | gold 4   |      [📘](백준/b12851_숨바꼭질2.md)      |      [💻](백준/b12851_숨바꼭질2.java)      |        🔺        |
 
 </div>
 </details>
