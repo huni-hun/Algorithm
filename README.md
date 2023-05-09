@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (59문제)</summary>
+  <summary>📁 백준 (60문제)</summary>
   </br>
   
 <div markdown="1">
@@ -72,6 +72,7 @@
 | 23.05.04 | [b2559](https://www.acmicpc.net/problem/2559)   | 수열                    | 구현                     | silver 3 |         [📘](백준/b2559_수열.md)         |         [💻](백준/b2559_수열.java)         |        ❌        |
 | 23.05.05 | [b12851](https://www.acmicpc.net/problem/12851) | 숨바꼭질2               | BFS/DFS                  | gold 4   |      [📘](백준/b12851_숨바꼭질2.md)      |      [💻](백준/b12851_숨바꼭질2.java)      |        🔺        |
 | 23.05.07 | [b2240](https://www.acmicpc.net/problem/2240)   | 자두나무                | DP                       | gold 5   |       [📘](백준/b2240_자두나무.md)       |       [💻](백준/b2240_자두나무.java)       |       ⭕️        |
+| 23.05.09 | [b17822](https://www.acmicpc.net/problem/17822) | 원판돌리기              | 구현/시뮬레이션          | gold 2   |     [📘](백준/b17822_원판돌리기.md)      |     [💻](백준/b17822_원판돌리기.java)      |        ❌        |
 
 </div>
 </details>
