@@ -73,6 +73,7 @@
 | 23.05.05 | [b12851](https://www.acmicpc.net/problem/12851) | 숨바꼭질2               | BFS/DFS                  | gold 4   |      [📘](백준/b12851_숨바꼭질2.md)      |      [💻](백준/b12851_숨바꼭질2.java)      |        🔺        |
 | 23.05.07 | [b2240](https://www.acmicpc.net/problem/2240)   | 자두나무                | DP                       | gold 5   |       [📘](백준/b2240_자두나무.md)       |       [💻](백준/b2240_자두나무.java)       |       ⭕️        |
 | 23.05.09 | [b17822](https://www.acmicpc.net/problem/17822) | 원판돌리기              | 구현/시뮬레이션          | gold 2   |     [📘](백준/b17822_원판돌리기.md)      |     [💻](백준/b17822_원판돌리기.java)      |        ❌        |
+| 23.05.10 | [b1182](https://www.acmicpc.net/problem/1182)   | 부분수열의 합           | 완전탐색/순조부          | silver 2 |     [📘](백준/b1182_부분수열의합.md)     |     [💻](백준/b1182_부분수열의합.java)     |        ❌        |
 
 </div>
 </details>
