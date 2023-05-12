@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (60문제)</summary>
+  <summary>📁 백준 (63문제)</summary>
   </br>
   
 <div markdown="1">
@@ -74,6 +74,7 @@
 | 23.05.07 | [b2240](https://www.acmicpc.net/problem/2240)   | 자두나무                | DP                       | gold 5   |       [📘](백준/b2240_자두나무.md)       |       [💻](백준/b2240_자두나무.java)       |       ⭕️        |
 | 23.05.09 | [b17822](https://www.acmicpc.net/problem/17822) | 원판돌리기              | 구현/시뮬레이션          | gold 2   |     [📘](백준/b17822_원판돌리기.md)      |     [💻](백준/b17822_원판돌리기.java)      |        ❌        |
 | 23.05.10 | [b1182](https://www.acmicpc.net/problem/1182)   | 부분수열의 합           | 완전탐색/순조부          | silver 2 |     [📘](백준/b1182_부분수열의합.md)     |     [💻](백준/b1182_부분수열의합.java)     |        ❌        |
+| 23.05.12 | [b17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!          | 구현/시뮬레이션          | gold 4   |    [📘](백준/b17144_미세먼지안녕.md)     |    [💻](백준/b17144_미세먼지안녕.java)     |        ❌        |
 
 </div>
 </details>
