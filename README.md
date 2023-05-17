@@ -77,6 +77,7 @@
 | 23.05.12 | [b17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕!          | 구현/시뮬레이션          | gold 4   |    [📘](백준/b17144_미세먼지안녕.md)     |    [💻](백준/b17144_미세먼지안녕.java)     |        ❌        |
 | 23.05.15 | [b2910](https://www.acmicpc.net/problem/2910)   | 빈도 정렬               | 자료구조/해시            | silver 3 |       [📘](백준/b2910_빈도정렬.md)       |       [💻](백준/b2910_빈도정렬.java)       |       ⭕️        |
 | 23.05.16 | [b15989](https://www.acmicpc.net/problem/15989) | 1,2,3 더하기 4          | DP                       | silver 1 |     [📘](백준/b15989_123더하기4.md)      |     [💻](백준/b15989_123더하기4.java)      |        🔺        |
+| 23.05.17 | [b5972](https://www.acmicpc.net/problem/5972)   | 택배 배송               | 다익스트라/그래프이론    | gold 5   |       [📘](백준/b5972_택배배송.md)       |       [💻](백준/b5972_택배배송.java)       |       ⭕️        |
 
 </div>
 </details>
