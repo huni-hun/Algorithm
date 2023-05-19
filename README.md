@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary>📁 프로그래머스 (24문제)</summary>
+  <summary>📁 프로그래머스 (25문제)</summary>
   </br>
   
 <div markdown="1">
@@ -114,6 +114,7 @@
 | 23.05.08 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42628)               | 자료구조/우선순위큐 | Level 3 |    [📘](프로그래머스/프로그래머스_이중우선순위큐.md)    |    [💻](프로그래머스/프로그래머스_이중우선순위큐.java)    |        ❌        |
 | 23.05.11 | [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829#) | BFS/DFS             | Level 2 | [📘](프로그래머스/프로그래머스_카카오프렌즈컬러링북.md) | [💻](프로그래머스/프로그래머스_카카오프렌즈컬러링북.java) |        ❌        |
 | 23.05.13 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)    | 누적합              | Level 3 |   [📘](프로그래머스/프로그래머스_파괴되지않은건물.md)   |   [💻](프로그래머스/프로그래머스_파괴되지않은건물.java)   |       ⭕️        |
+| 23.05.19 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)              | 그리디              | Level 2 |       [📘](프로그래머스/프로그래머스_조이스틱.md)       |       [💻](프로그래머스/프로그래머스_조이스틱.java)       |        ❌        |
 
 </div>
 </details>
