@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (69문제)</summary>
+  <summary>📁 백준 (70문제)</summary>
   </br>
   
 <div markdown="1">
@@ -81,6 +81,7 @@
 | 23.05.19 | [b1863](https://www.acmicpc.net/problem/1863)   | 스카이라인 쉬운거       | 자료구조/스택            | gold 5   |   [📘](백준/b1863_스카이라인쉬운거.md)   |   [💻](백준/b1863_스카이라인쉬운거.java)   |       ⭕️        |
 | 23.05.26 | [b20920](https://www.acmicpc.net/problem/20920) | 영단어 암기는 괴로워    | 자료구조/해시            | silver 3 | [📘](백준/b20920_영단어암기는괴로워.md)  | [💻](백준/b20920_영단어암기는괴로워.java)  |        ❌        |
 | 23.06.02 | [b2141](https://www.acmicpc.net/problem/2141)   | 우체국                  | 그리디/정렬              | gold 4   |        [📘](백준/b2141_우체국.md)        |        [💻](백준/b2141_우체국.java)        |       ⭕️        |
+| 23.06.02 | [b1018](https://www.acmicpc.net/problem/1018)   | 체스판 다시 칠하기      | 완전탐색                 | silver 4 |   [📘](백준/b1018_체스판다시칠하기.md)   |   [💻](백준/b1018_체스판다시칠하기.java)   |        ❌        |
 
 </div>
 </details>
