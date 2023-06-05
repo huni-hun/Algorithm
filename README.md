@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (71문제)</summary>
+  <summary>📁 백준 (72문제)</summary>
   </br>
   
 <div markdown="1">
@@ -83,6 +83,7 @@
 | 23.06.02 | [b2141](https://www.acmicpc.net/problem/2141)   | 우체국                  | 그리디/정렬              | gold 4   |        [📘](백준/b2141_우체국.md)        |        [💻](백준/b2141_우체국.java)        |       ⭕️        |
 | 23.06.02 | [b1018](https://www.acmicpc.net/problem/1018)   | 체스판 다시 칠하기      | 완전탐색                 | silver 4 |   [📘](백준/b1018_체스판다시칠하기.md)   |   [💻](백준/b1018_체스판다시칠하기.java)   |        ❌        |
 | 23.06.05 | [b1940](https://www.acmicpc.net/problem/1940)   | 주몽                    | 완전탐색                 | silver 4 |         [📘](백준/b1940_주몽.md)         |         [💻](백준/b1940_주몽.java)         |        ❌        |
+| 23.06.05 | [b1976](https://www.acmicpc.net/problem/1976)   | 여행가자                | 그래프이론               | gold 4   |       [📘](백준/b1976_여행가자.md)       |       [💻](백준/b1976_여행가자.java)       |       ⭕️        |
 
 </div>
 </details>
@@ -151,6 +152,7 @@
 - [9] DP [🔗](https://github.com/huni-hun/Algorithm/issues/9)
 - [10] 정렬 [🔗](https://github.com/huni-hun/Algorithm/issues/10)
 - [11] 누적합 [🔗](https://github.com/huni-hun/Algorithm/issues/11)
+- [12] 그래프이론 [🔗](https://github.com/huni-hun/Algorithm/issues/12)
 
 ## 커밋 규칙
 
