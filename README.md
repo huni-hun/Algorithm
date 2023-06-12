@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (73문제)</summary>
+  <summary>📁 백준 (74문제)</summary>
   </br>
   
 <div markdown="1">
@@ -85,6 +85,7 @@
 | 23.06.05 | [b1940](https://www.acmicpc.net/problem/1940)   | 주몽                    | 완전탐색                 | silver 4 |         [📘](백준/b1940_주몽.md)         |         [💻](백준/b1940_주몽.java)         |        ❌        |
 | 23.06.05 | [b1976](https://www.acmicpc.net/problem/1976)   | 여행가자                | 그래프이론               | gold 4   |       [📘](백준/b1976_여행가자.md)       |       [💻](백준/b1976_여행가자.java)       |       ⭕️        |
 | 23.06.08 | [b4949](https://www.acmicpc.net/problem/4949)   | 균형잡힌 세상           | 자료구조/스택            | silver 4 |     [📘](백준/b4949_균형잡힌세상.md)     |     [💻](백준/b4949_균형잡힌세상.java)     |        ❌        |
+| 23.06.12 | [b6593](https://www.acmicpc.net/problem/6593)   | 상범 빌딩               | BFS,DFS                  | gold 5   |       [📘](백준/b6593_상범빌딩.md)       |       [💻](백준/b6593_상범빌딩.java)       |        ❌        |
 
 </div>
 </details>
