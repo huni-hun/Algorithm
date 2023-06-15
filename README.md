@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (75문제)</summary>
+  <summary>📁 백준 (76문제)</summary>
   </br>
   
 <div markdown="1">
@@ -87,6 +87,7 @@
 | 23.06.08 | [b4949](https://www.acmicpc.net/problem/4949)   | 균형잡힌 세상           | 자료구조/스택            | silver 4 |     [📘](백준/b4949_균형잡힌세상.md)     |     [💻](백준/b4949_균형잡힌세상.java)     |        ❌        |
 | 23.06.12 | [b6593](https://www.acmicpc.net/problem/6593)   | 상범 빌딩               | BFS,DFS                  | gold 5   |       [📘](백준/b6593_상범빌딩.md)       |       [💻](백준/b6593_상범빌딩.java)       |        ❌        |
 | 23.06.13 | [b2343](https://www.acmicpc.net/problem/2343)   | 기타 레슨               | 이분탐색                 | silver 1 |       [📘](백준/b2343_기타레슨.md)       |       [💻](백준/b2343_기타레슨.java)       |        🔺        |
+| 23.06.15 | [b1911](https://www.acmicpc.net/problem/1911)   | 흙길 보수하기           | 정렬                     | silver 1 |     [📘](백준/b1911_흙길보수하기.md)     |     [💻](백준/b1911_흙길보수하기.java)     |        ❌        |
 
 </div>
 </details>
