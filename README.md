@@ -88,6 +88,7 @@
 | 23.06.12 | [b6593](https://www.acmicpc.net/problem/6593)   | 상범 빌딩               | BFS,DFS                  | gold 5   |       [📘](백준/b6593_상범빌딩.md)       |       [💻](백준/b6593_상범빌딩.java)       |        ❌        |
 | 23.06.13 | [b2343](https://www.acmicpc.net/problem/2343)   | 기타 레슨               | 이분탐색                 | silver 1 |       [📘](백준/b2343_기타레슨.md)       |       [💻](백준/b2343_기타레슨.java)       |        🔺        |
 | 23.06.15 | [b1911](https://www.acmicpc.net/problem/1911)   | 흙길 보수하기           | 정렬                     | silver 1 |     [📘](백준/b1911_흙길보수하기.md)     |     [💻](백준/b1911_흙길보수하기.java)     |        ❌        |
+| 23.06.16 | [b20437](https://www.acmicpc.net/problem/20437) | 문자열 게임2            | 완전탐색/문자열/투포인터 | gold 5   |     [📘](백준/b20437_문자열게임2.md)     |     [💻](백준/b20437_문자열게임2.java)     |        🔺        |
 
 </div>
 </details>
