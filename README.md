@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (78문제)</summary>
+  <summary>📁 백준 (79문제)</summary>
   </br>
   
 <div markdown="1">
@@ -91,6 +91,7 @@
 | 23.06.16 | [b20437](https://www.acmicpc.net/problem/20437) | 문자열 게임2            | 완전탐색/문자열/투포인터 | gold 5   |     [📘](백준/b20437_문자열게임2.md)     |     [💻](백준/b20437_문자열게임2.java)     |        🔺        |
 | 23.06.26 | [b5427](https://www.acmicpc.net/problem/5427)   | 불                      | BFS,DFS                  | gold 4   |          [📘](백준/b5427_불.md)          |          [💻](백준/b5427_불.java)          |        🔺        |
 | 23.06.27 | [b1446](https://www.acmicpc.net/problem/1446)   | 지름길                  | 그래프이론               | silver 1 |        [📘](백준/b1446_지름길.md)        |        [💻](백준/b1446_지름길.java)        |       ⭕️        |
+| 23.06.28 | [b1911](https://www.acmicpc.net/problem/2206)   | 벽 부수고 이동하기      | BFS,DFS                  | gold 3   |   [📘](백준/b2206_벽부수고이동하기.md)   |   [💻](백준/b2206_벽부수고이동하기.java)   |        ❌        |
 
 </div>
 </details>
