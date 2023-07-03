@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (82문제)</summary>
+  <summary>📁 백준 (83문제)</summary>
   </br>
   
 <div markdown="1">
@@ -94,6 +94,7 @@
 | 23.06.28 | [b1911](https://www.acmicpc.net/problem/2206)   | 벽 부수고 이동하기      | BFS,DFS                  | gold 3   |   [📘](백준/b2206_벽부수고이동하기.md)   |   [💻](백준/b2206_벽부수고이동하기.java)   |        ❌        |
 | 23.06.29 | [b14620](https://www.acmicpc.net/problem/14620) | 꽃길                    | 완전탐색                 | silver 2 |        [📘](백준/b14620_꽃길.md)         |        [💻](백준/b14620_꽃길.java)         |        ❌        |
 | 23.06.30 | [b1189](https://www.acmicpc.net/problem/1189)   | 컴백홈                  | 완전탐색                 | silver 1 |        [📘](백준/b1189_컴백홈.md)        |        [💻](백준/b1189_컴백홈.java)        |        ❌        |
+| 23.07.03 | [b20300](https://www.acmicpc.net/problem/20300) | 서강근육맨              | 그리디                   | silver 3 |     [📘](백준/b20300_서강근육맨.md)      |     [💻](백준/b20300_서강근육맨.java)      |        ❌        |
 
 </div>
 </details>
