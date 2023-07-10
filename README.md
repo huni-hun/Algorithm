@@ -101,7 +101,7 @@
 </details>
 
 <details>
-  <summary>📁 프로그래머스 (27문제)</summary>
+  <summary>📁 프로그래머스 (28문제)</summary>
   </br>
   
 <div markdown="1">
@@ -134,7 +134,8 @@
 | 23.05.13 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)    | 누적합              | Level 3 |   [📘](프로그래머스/프로그래머스_파괴되지않은건물.md)   |   [💻](프로그래머스/프로그래머스_파괴되지않은건물.java)   |       ⭕️        |
 | 23.05.19 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)              | 그리디              | Level 2 |       [📘](프로그래머스/프로그래머스_조이스틱.md)       |       [💻](프로그래머스/프로그래머스_조이스틱.java)       |        ❌        |
 | 23.06.09 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43338)              | 이분탐색            | Level 3 |       [📘](프로그래머스/프로그래머스_입국심사.md)       |       [💻](프로그래머스/프로그래머스_입국심사.java)       |       ⭕️        |
-| 23.07.06 | [이모티콘할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/43338)      | 순열/완전탐색       | Level 2 |   [📘](프로그래머스/프로그래머스_이모티콘할인행사.md)   |   [💻](프로그래머스/프로그래머스_이모티콘할인행사.java)   |       ⭕️        |
+| 23.07.06 | [이모티콘할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)     | 순열/완전탐색       | Level 2 |   [📘](프로그래머스/프로그래머스_이모티콘할인행사.md)   |   [💻](프로그래머스/프로그래머스_이모티콘할인행사.java)   |       ⭕️        |
+| 23.07.10 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)          | 자료구조/우선순위큐 | Level 2 |      [📘](프로그래머스/프로그래머스_디펜스게임.md)      |      [💻](프로그래머스/프로그래머스_디펜스게임.java)      |        🔺        |
 
 </div>
 </details>
