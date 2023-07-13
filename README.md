@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (84문제)</summary>
+  <summary>📁 백준 (85문제)</summary>
   </br>
   
 <div markdown="1">
@@ -138,6 +138,7 @@
 | 23.07.06 | [이모티콘할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)     | 순열/완전탐색       | Level 2 |   [📘](프로그래머스/프로그래머스_이모티콘할인행사.md)   |   [💻](프로그래머스/프로그래머스_이모티콘할인행사.java)   |       ⭕️        |
 | 23.07.10 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)          | 자료구조/우선순위큐 | Level 2 |      [📘](프로그래머스/프로그래머스_디펜스게임.md)      |      [💻](프로그래머스/프로그래머스_디펜스게임.java)      |        🔺        |
 | 23.07.11 | [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)             | BFS, DFS/완전탐색   | Level 2 |       [📘](프로그래머스/프로그래머스_광물캐기.md)       |       [💻](프로그래머스/프로그래머스_광물캐기.java)       |        ❌        |
+| 23.07.13 | [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993#)            | BFS, DFS            | Level 2 |       [📘](프로그래머스/프로그래머스_미로탈출.md)       |       [💻](프로그래머스/프로그래머스_미로탈출.java)       |        ❌        |
 
 </div>
 </details>
