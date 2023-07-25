@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (85문제)</summary>
+  <summary>📁 백준 (86문제)</summary>
   </br>
   
 <div markdown="1">
@@ -97,6 +97,7 @@
 | 23.07.03 | [b20300](https://www.acmicpc.net/problem/20300) | 서강근육맨              | 그리디                   | silver 3 |     [📘](백준/b20300_서강근육맨.md)      |     [💻](백준/b20300_서강근육맨.java)      |        ❌        |
 | 23.07.05 | [b16234](https://www.acmicpc.net/problem/16234) | 인구이동                | BFS, DFS / 구현          | gold 5   |      [📘](백준/b16234_인구이동.md)       |      [💻](백준/b16234_인구이동.java)       |        🔺        |
 | 23.07.12 | [b2193](https://www.acmicpc.net/problem/2193)   | 이친수                  | DP                       | silver 3 |        [📘](백준/b2193_이친수.md)        |        [💻](백준/b2193_이친수.java)        |        ❌        |
+| 23.07.25 | [b14503](https://www.acmicpc.net/problem/14503) | 로봇 청소기             | 구현                     | gold 5   |     [📘](백준/b14503_로봇청소기.md)      |     [💻](백준/b14503_로봇청소기.java)      |        ❌        |
 
 </div>
 </details>
