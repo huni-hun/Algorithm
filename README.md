@@ -103,7 +103,7 @@
 </details>
 
 <details>
-  <summary>📁 프로그래머스 (30문제)</summary>
+  <summary>📁 프로그래머스 (31문제)</summary>
   </br>
   
 <div markdown="1">
@@ -141,6 +141,7 @@
 | 23.07.11 | [광물캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)             | BFS, DFS/완전탐색        | Level 2 |       [📘](프로그래머스/프로그래머스_광물캐기.md)       |       [💻](프로그래머스/프로그래머스_광물캐기.java)       |        ❌        |
 | 23.07.13 | [미로탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993#)            | BFS, DFS                 | Level 2 |       [📘](프로그래머스/프로그래머스_미로탈출.md)       |       [💻](프로그래머스/프로그래머스_미로탈출.java)       |        ❌        |
 | 23.07.14 | [호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651#)            | 자료구조/우선순위큐/정렬 | Level 2 |       [📘](프로그래머스/프로그래머스_호텔대실.md)       |       [💻](프로그래머스/프로그래머스_호텔대실.java)       |        ❌        |
+| 23.08.07 | [무인도여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)           | BFS, DFS                 | Level 2 |      [📘](프로그래머스/프로그래머스_무인도여행.md)      |      [💻](프로그래머스/프로그래머스_무인도여행.java)      |        ❌        |
 
 </div>
 </details>
