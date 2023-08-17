@@ -101,6 +101,7 @@
 | 23.08.09 | [b7562](https://www.acmicpc.net/problem/7562)   | 나이트의이동            | BFS, DFS                 | silver 1 |     [📘](백준/b7562_나이트의이동.md)     |     [💻](백준/b7562_나이트의이동.java)     |        ❌        |
 | 23.08.11 | [b2579](https://www.acmicpc.net/problem/2579)   | 계단오르기              | DP                       | silver 3 |      [📘](백준/b2579_계단오르기.md)      |      [💻](백준/b2579_계단오르기.java)      |        ❌        |
 | 23.08.17 | [b6198](https://www.acmicpc.net/problem/6198)   | 옥상 정원 꾸미기        | 구현                     | gold 5   |    [📘](백준/b6198_옥상정원꾸미기.md)    |    [💻](백준/b6198_옥상정원꾸미기.java)    |        ❌        |
+| 23.08.18 | [b2606](https://www.acmicpc.net/problem/2606)   | 바이러스                | 그래프이론/BFS, DFS      | silver 3 |       [📘](백준/b2606_바이러스.md)       |       [💻](백준/b2606_바이러스.java)       |        ❌        |
 
 </div>
 </details>
