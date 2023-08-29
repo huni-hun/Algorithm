@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (91문제)</summary>
+  <summary>📁 백준 (92문제)</summary>
   </br>
   
 <div markdown="1">
@@ -104,6 +104,7 @@
 | 23.08.18 | [b2606](https://www.acmicpc.net/problem/2606)   | 바이러스                | 그래프이론/BFS, DFS      | silver 3 |       [📘](백준/b2606_바이러스.md)       |       [💻](백준/b2606_바이러스.java)       |        ❌        |
 | 23.08.21 | [b1926](https://www.acmicpc.net/problem/1926)   | 그림                    | BFS, DFS                 | silver 1 |         [📘](백준/b1926_그림.md)         |         [💻](백준/b1926_그림.java)         |        ❌        |
 | 23.08.28 | [b2156](https://www.acmicpc.net/problem/2156)   | 포도주 시식             | DP                       | silver 1 |      [📘](백준/b2156_포도주시식.md)      |      [💻](백준/b2156_포도주시식.java)      |        ❌        |
+| 23.08.29 | [b17135](https://www.acmicpc.net/problem/17135) | 캐슬디펜스              | BFS, DFS/구현/순조부     | gold 3   |     [📘](백준/b17135_캐슬디펜스.md)      |     [💻](백준/b17135_캐슬디펜스.java)      |        ❌        |
 
 </div>
 </details>
