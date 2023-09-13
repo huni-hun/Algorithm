@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (93문제)</summary>
+  <summary>📁 백준 (94문제)</summary>
   </br>
   
 <div markdown="1">
@@ -106,6 +106,7 @@
 | 23.08.28 | [b2156](https://www.acmicpc.net/problem/2156)   | 포도주 시식             | DP                       | silver 1 |      [📘](백준/b2156_포도주시식.md)      |      [💻](백준/b2156_포도주시식.java)      |        ❌        |
 | 23.08.29 | [b17135](https://www.acmicpc.net/problem/17135) | 캐슬디펜스              | BFS, DFS/구현/순조부     | gold 3   |     [📘](백준/b17135_캐슬디펜스.md)      |     [💻](백준/b17135_캐슬디펜스.java)      |        ❌        |
 | 23.08.31 | [b1406](https://www.acmicpc.net/problem/1406)   | 에디터                  | 자료구조                 | silver 2 |        [📘](백준/b1406_에디터.md)        |        [💻](백준/b1406_에디터.java)        |        🔺        |
+| 23.09.13 | [b5430](https://www.acmicpc.net/problem/5430)   | AC                      | 구현/자료구조            | gold 5   |          [📘](백준/b5430_AC.md)          |          [💻](백준/b5430_AC.java)          |        🔺        |
 
 </div>
 </details>
