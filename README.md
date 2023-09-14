@@ -107,6 +107,7 @@
 | 23.08.29 | [b17135](https://www.acmicpc.net/problem/17135) | 캐슬디펜스              | BFS, DFS/구현/순조부     | gold 3   |     [📘](백준/b17135_캐슬디펜스.md)      |     [💻](백준/b17135_캐슬디펜스.java)      |        ❌        |
 | 23.08.31 | [b1406](https://www.acmicpc.net/problem/1406)   | 에디터                  | 자료구조                 | silver 2 |        [📘](백준/b1406_에디터.md)        |        [💻](백준/b1406_에디터.java)        |        🔺        |
 | 23.09.13 | [b5430](https://www.acmicpc.net/problem/5430)   | AC                      | 구현/자료구조            | gold 5   |          [📘](백준/b5430_AC.md)          |          [💻](백준/b5430_AC.java)          |        🔺        |
+| 23.09.14 | [b2469](https://www.acmicpc.net/problem/2469)   | 사다리타기              | 구현                     | gold 5   |      [📘](백준/b2469_사다리타기.md)      |      [💻](백준/b2469_사다리타기.java)      |        ❌        |
 
 </div>
 </details>
