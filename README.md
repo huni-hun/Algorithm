@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (96문제)</summary>
+  <summary>📁 백준 (97문제)</summary>
   </br>
   
 <div markdown="1">
@@ -110,6 +110,7 @@
 | 23.09.14 | [b2469](https://www.acmicpc.net/problem/2469)   | 사다리타기              | 구현                     | gold 5   |      [📘](백준/b2469_사다리타기.md)      |      [💻](백준/b2469_사다리타기.java)      |        ❌        |
 | 23.09.18 | [b17178](https://www.acmicpc.net/problem/17178) | 줄서기                  | 구현/자료구조            | gold 5   |       [📘](백준/b17178_줄서기.md)        |       [💻](백준/b17178_줄서기.java)        |        🔺        |
 | 23.09.19 | [b6987](https://www.acmicpc.net/problem/6987)   | 월드컵                  | 완전탐색                 | gold 4   |        [📘](백준/b6987_월드컵.md)        |        [💻](백준/b6987_월드컵.java)        |       ⭕️        |
+| 23.09.20 | [b17143](https://www.acmicpc.net/problem/17143) | 낚시왕                  | 구현                     | gold 1   |       [📘](백준/b17143_낚시왕.md)        |       [💻](백준/b17143_낚시왕.java)        |        🔺        |
 
 </div>
 </details>
