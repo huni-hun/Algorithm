@@ -22,9 +22,9 @@ public class b2470_두용액 {
 		int left = 0;
 		int right = N-1;
 		int small = Integer.MAX_VALUE;
-		int ans1 = 0, ans2 = 0, temp = 0;
+		int ans1 = 0, ans2 = 0, temp, sum;
 		while(left < right) {
-			int sum = arr[left] + arr[right];
+			sum = arr[left] + arr[right];
 			temp = Math.abs(sum);
 			
 			if(temp < small) {
@@ -33,8 +33,8 @@ public class b2470_두용액 {
 				small = temp;
 			}
 			
-			if(sum > 0) left++;
-			else right--;
+			if(sum > 0) right--;
+			else left++;
 		}
 		
 		System.out.println(arr[ans1] + " " + arr[ans2]);
