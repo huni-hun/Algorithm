@@ -113,6 +113,7 @@
 | 23.09.20 | [b17143](https://www.acmicpc.net/problem/17143) | 낚시왕                  | 구현                     | gold 1   |       [📘](백준/b17143_낚시왕.md)        |       [💻](백준/b17143_낚시왕.java)        |        🔺        |
 | 23.09.21 | [b4358](https://www.acmicpc.net/problem/4358)   | 생태학                  | 자료구조                 | silver 2 |        [📘](백준/b4358_생태학.md)        |        [💻](백준/b4358_생태학.java)        |        ❌        |
 | 23.09.26 | [b2370](https://www.acmicpc.net/problem/2470)   | 두용액                  | 정렬/투포인터            | gold 5   |        [📘](백준/b2470_두용액.md)        |        [💻](백준/b2470_두용액.java)        |        ❌        |
+| 23.10.02 | [b9935](https://www.acmicpc.net/problem/9935)   | 문자열 폭발             | 자료구조                 | gold 4   |      [📘](백준/b9935_문자열폭발.md)      |      [💻](백준/b9935_문자열폭발.java)      |       ⭕️        |
 
 </div>
 </details>
