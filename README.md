@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (103문제)</summary>
+  <summary>📁 백준 (104문제)</summary>
   </br>
   
 <div markdown="1">
@@ -115,7 +115,8 @@
 | 23.09.26 | [b2370](https://www.acmicpc.net/problem/2470)   | 두용액                  | 정렬/투포인터            | gold 5   |        [📘](백준/b2470_두용액.md)        |        [💻](백준/b2470_두용액.java)        |        ❌        |
 | 23.10.02 | [b9935](https://www.acmicpc.net/problem/9935)   | 문자열 폭발             | 자료구조                 | gold 4   |      [📘](백준/b9935_문자열폭발.md)      |      [💻](백준/b9935_문자열폭발.java)      |       ⭕️        |
 | 23.10.04 | [b2531](https://www.acmicpc.net/problem/2531)   | 회전초밥                | 구현/투포인터            | silver 1 |       [📘](백준/b2531_회전초밥.md)       |       [💻](백준/b2531_회전초밥.java)       |        ❌        |
-| 23.10.05 | [b1238](https://www.acmicpc.net/problem/1238)   | 파티                    | 그래프이론               | gold 2   |         [📘](백준/b1238_파티.md)         |         [💻](백준/b1238_파티.java)         |       ⭕️        |
+| 23.10.05 | [b1238](https://www.acmicpc.net/problem/1238)   | 파티                    | 다익스트라/그래프이론    | gold 2   |         [📘](백준/b1238_파티.md)         |         [💻](백준/b1238_파티.java)         |       ⭕️        |
+| 23.10.06 | [b1753](https://www.acmicpc.net/problem/1753)   | 최단경로                | 다익스트라/그래프이론    | gold 4   |       [📘](백준/b1753_최단경로.md)       |       [💻](백준/b1753_최단경로.java)       |       ⭕️        |
 
 </div>
 </details>
