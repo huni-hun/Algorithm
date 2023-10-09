@@ -116,7 +116,8 @@
 | 23.10.02 | [b9935](https://www.acmicpc.net/problem/9935)   | 문자열 폭발             | 자료구조                 | gold 4   |      [📘](백준/b9935_문자열폭발.md)      |      [💻](백준/b9935_문자열폭발.java)      |       ⭕️        |
 | 23.10.04 | [b2531](https://www.acmicpc.net/problem/2531)   | 회전초밥                | 구현/투포인터            | silver 1 |       [📘](백준/b2531_회전초밥.md)       |       [💻](백준/b2531_회전초밥.java)       |        ❌        |
 | 23.10.05 | [b1238](https://www.acmicpc.net/problem/1238)   | 파티                    | 다익스트라/그래프이론    | gold 2   |         [📘](백준/b1238_파티.md)         |         [💻](백준/b1238_파티.java)         |       ⭕️        |
-| 23.10.06 | [b1753](https://www.acmicpc.net/problem/1753)   | 최단경로                | 다익스트라/그래프이론    | gold 4   |       [📘](백준/b1753_최단경로.md)       |       [💻](백준/b1753_최단경로.java)       |       ⭕️        |
+| 23.10.06 | [b1753](https://www.acmicpc.net/problem/1753)   | 최단경로                | 다익스트라/그래프이론    | gold 4   |       [📘](백준/b1753_최단경로.md)       |       [💻](백준/b1753_최단경로.java)       |        ❌        |
+| 23.10.09 | [b1916](https://www.acmicpc.net/problem/1916)   | 최소비용구하기          | 다익스트라/그래프이론    | gold 5   |    [📘](백준/b1916_최소비용구하기.md)    |    [💻](백준/b1916_최소비용구하기.java)    |        ❌        |
 
 </div>
 </details>
