@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (104문제)</summary>
+  <summary>📁 백준 (112문제)</summary>
   </br>
   
 <div markdown="1">
@@ -122,6 +122,7 @@
 | 23.10.11 | [b1261](https://www.acmicpc.net/problem/1261)   | 알고스팟                | BFS, DFS/다익스트라/그래프이론 | gold 4   |       [📘](백준/b1261_알고스팟.md)       |       [💻](백준/b1261_알고스팟.java)       |        🔺        |
 | 23.10.11 | [b13549](https://www.acmicpc.net/problem/13549) | 숨바꼭질3               | BFS, DFS                       | gold 5   |      [📘](백준/b13549_숨바꼭질3.md)      |      [💻](백준/b13549_숨바꼭질.java)       |        ❌        |
 | 23.10.12 | [b11779](https://www.acmicpc.net/problem/11779) | 최소비용구하기2         | 다익스트라/그래프이론          | gold 3   |   [📘](백준/b11779_최소비용구하기2.md)   |   [💻](백준/b11779_최소비용구하기2.java)   |        🔺        |
+| 23.10.13 | [b2665](https://www.acmicpc.net/problem/2665)   | 미로만들기              | BFS, DFS/다익스트라/그래프이론 | gold 4   |      [📘](백준/b2665_미로만들기.md)      |      [💻](백준/b2665_미로만들기.java)      |        ❌        |
 
 </div>
 </details>
