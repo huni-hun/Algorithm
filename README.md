@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (113문제)</summary>
+  <summary>📁 백준 (114문제)</summary>
   </br>
   
 <div markdown="1">
@@ -125,6 +125,7 @@
 | 23.10.13 | [b2665](https://www.acmicpc.net/problem/2665)   | 미로만들기              | BFS, DFS/다익스트라/그래프이론 | gold 4   |      [📘](백준/b2665_미로만들기.md)      |      [💻](백준/b2665_미로만들기.java)      |        ❌        |
 | 23.10.13 | [b14983](https://www.acmicpc.net/problem/14983) | 서강그라운드            | 다익스트라/그래프이론          | gold 4   |    [📘](백준/b14983_서강그라운드.md)     |    [💻](백준/b14983_서강그라운드.java)     |        ❌        |
 | 23.10.18 | [b10282](https://www.acmicpc.net/problem/10282) | 해킹                    | 다익스트라/그래프이론          | gold 4   |        [📘](백준/b10282_해킹.md)         |        [💻](백준/b10282_해킹.java)         |        ❌        |
+| 23.10.24 | [b2138](https://www.acmicpc.net/problem/2138)   | 전구와스위치            | 그리디                         | gold 5   |     [📘](백준/b2138_전구와스위치.md)     |     [💻](백준/b2138_전구와스위치.java)     |        🔺        |
 
 </div>
 </details>
