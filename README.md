@@ -131,6 +131,7 @@
 | 23.10.27 | [b20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 | 구현/시뮬레이션                | gold 5   | [📘](백준/b20055_컨베이어벨트위의로봇.md) | [💻](백준/b20055_컨베이어벨트위의로봇.java) |        ❌        |
 | 23.10.31 | [b2467](https://www.acmicpc.net/problem/2467)   | 용액                    | 투포인터/이분탐색              | gold 5   |         [📘](백준/b2467_용액.md)          |         [💻](백준/b2467_용액.java)          |        ❌        |
 | 23.11.02 | [b12685](https://www.acmicpc.net/problem/12685) | 평범한 배낭             | DP                             | gold 5   |      [📘](백준/b12685_평범한배낭.md)      |      [💻](백준/b12685_평범한배낭.java)      |        🔺        |
+| 23.11.13 | [b2258](https://www.acmicpc.net/problem/2258)   | 정육점                  | 그리디                         | gold 4   |        [📘](백준/b2258_정육점.md)         |        [💻](백준/b2258_정육점.java)         |        🔺        |
 
 </div>
 </details>
