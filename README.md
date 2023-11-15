@@ -133,6 +133,7 @@
 | 23.11.02 | [b12685](https://www.acmicpc.net/problem/12685) | 평범한 배낭             | DP                             | gold 5   |      [📘](백준/b12685_평범한배낭.md)      |      [💻](백준/b12685_평범한배낭.java)      |        🔺        |
 | 23.11.13 | [b2258](https://www.acmicpc.net/problem/2258)   | 정육점                  | 그리디                         | gold 4   |        [📘](백준/b2258_정육점.md)         |        [💻](백준/b2258_정육점.java)         |        🔺        |
 | 23.11.15 | [b1520](https://www.acmicpc.net/problem/1520)   | 내리막길                | DP / BFS, DFS / 우선순위 큐    | gold 3   |       [📘](백준/b1520_내리막길.md)        |       [💻](백준/b1520_내리막길.java)        |        🔺        |
+| 23.11.15 | [b11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기5         | DP / 누적합                    | silver 1 |    [📘](백준/b11660_구간합구하기5.md)     |    [💻](백준/b11660_구간합구하기5.java)     |        🔺        |
 
 </div>
 </details>
