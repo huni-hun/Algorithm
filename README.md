@@ -140,7 +140,7 @@
 </details>
 
 <details>
-  <summary>📁 프로그래머스 (35문제)</summary>
+  <summary>📁 프로그래머스 (36문제)</summary>
   </br>
   
 <div markdown="1">
@@ -183,6 +183,7 @@
 | 23.08.16 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)            | 자료구조/해시            | Level 2 |       [📘](프로그래머스/프로그래머스_귤고르기.md)       |       [💻](프로그래머스/프로그래머스_귤고르기.java)       |        ❌        |
 | 23.09.15 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)      | 자료구조/해시            | Level 2 |    [📘](프로그래머스/프로그래머스_롤케이크자르기.md)    |    [💻](프로그래머스/프로그래머스_롤케이크자르기.java)    |        🔺        |
 | 23.10.13 | [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)           | 그리디                   | Level 2 |      [📘](프로그래머스/프로그래머스_요격시스템.md)      |      [💻](프로그래머스/프로그래머스_요격시스템.java)      |        ❌        |
+| 23.11.17 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)        | 자료구조/그리디          | Level 2 |     [📘](프로그래머스/프로그래머스_과제진행하기.md)     |     [💻](프로그래머스/프로그래머스_과제진행하기.java)     |        🔺        |
 
 </div>
 </details>
