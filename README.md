@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (117문제)</summary>
+  <summary>📁 백준 (118문제)</summary>
   </br>
   
 <div markdown="1">
@@ -134,7 +134,8 @@
 | 23.11.13 | [b2258](https://www.acmicpc.net/problem/2258)   | 정육점                  | 그리디                         | gold 4   |        [📘](백준/b2258_정육점.md)         |        [💻](백준/b2258_정육점.java)         |        🔺        |
 | 23.11.15 | [b1520](https://www.acmicpc.net/problem/1520)   | 내리막길                | DP / BFS, DFS / 우선순위 큐    | gold 3   |       [📘](백준/b1520_내리막길.md)        |       [💻](백준/b1520_내리막길.java)        |        🔺        |
 | 23.11.15 | [b11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기5         | DP / 누적합                    | silver 1 |    [📘](백준/b11660_구간합구하기5.md)     |    [💻](백준/b11660_구간합구하기5.java)     |        🔺        |
-| 23.11.16 | [b1806](https://www.acmicpc.net/problem/1806)   | 부분합                  | 누적합 / 투포인터              | gold4    |        [📘](백준/b1806_부분합.md)         |        [💻](백준/b1806_부분합.java)         |        ❌        |
+| 23.11.16 | [b1806](https://www.acmicpc.net/problem/1806)   | 부분합                  | 누적합 / 투포인터              | gold 4   |        [📘](백준/b1806_부분합.md)         |        [💻](백준/b1806_부분합.java)         |        ❌        |
+| 23.11.20 | [b1202](https://www.acmicpc.net/problem/1202)   | 보석 도둑               | 그리디 / 우선순위큐            | gold 2   |       [📘](백준/b1202_보석도둑.md)        |       [💻](백준/b1202_보석도둑.java)        |        🔺        |
 
 </div>
 </details>
