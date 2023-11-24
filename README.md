@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (120문제)</summary>
+  <summary>📁 백준 (121문제)</summary>
   </br>
   
 <div markdown="1">
@@ -138,6 +138,7 @@
 | 23.11.20 | [b1202](https://www.acmicpc.net/problem/1202)   | 보석 도둑               | 그리디 / 우선순위큐            | gold 2   |       [📘](백준/b1202_보석도둑.md)        |       [💻](백준/b1202_보석도둑.java)        |        🔺        |
 | 23.11.21 | [b2437](https://www.acmicpc.net/problem/2437)   | 저울                    | 누적합                         | gold 2   |         [📘](백준/b2437_저울.md)          |         [💻](백준/b2437_저울.java)          |        ❌        |
 | 23.11.23 | [b3020](https://www.acmicpc.net/problem/3020)   | 개똥벌레                | 이분탐색 / 누적합              | gold 5   |       [📘](백준/b3020_개똥벌레.md)        |       [💻](백준/b3020_개똥벌레.java)        |       ⭕️        |
+| 23.11.24 | [b1092](https://www.acmicpc.net/problem/1092)   | 배                      | 그리디                         | gold 5   |          [📘](백준/b1092_배.md)           |          [💻](백준/b1092_배.java)           |        🔺        |
 
 </div>
 </details>
