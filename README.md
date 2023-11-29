@@ -140,6 +140,7 @@
 | 23.11.23 | [b3020](https://www.acmicpc.net/problem/3020)   | 개똥벌레                | 이분탐색 / 누적합              | gold 5   |       [📘](백준/b3020_개똥벌레.md)        |       [💻](백준/b3020_개똥벌레.java)        |       ⭕️        |
 | 23.11.24 | [b1092](https://www.acmicpc.net/problem/1092)   | 배                      | 그리디                         | gold 5   |          [📘](백준/b1092_배.md)           |          [💻](백준/b1092_배.java)           |        🔺        |
 | 23.11.27 | [b1461](https://www.acmicpc.net/problem/1461)   | 도서관                  | 그리디 / 우선순위큐            | gold 4   |        [📘](백준/b1461_도서관.md)         |        [💻](백준/b1461_도서관.java)         |        ❌        |
+| 23.11.29 | [b16928](https://www.acmicpc.net/problem/16928) | 뱀과 사다리 게임        | BFS, DFS                       | gold 5   |    [📘](백준/b16928_뱀과사다리게임.md)    |    [💻](백준/b16928_뱀과사다리게임.java)    |        ❌        |
 
 </div>
 </details>
