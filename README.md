@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (121문제)</summary>
+  <summary>📁 백준 (122문제)</summary>
   </br>
   
 <div markdown="1">
@@ -142,6 +142,7 @@
 | 23.11.27 | [b1461](https://www.acmicpc.net/problem/1461)   | 도서관                  | 그리디 / 우선순위큐            | gold 4   |        [📘](백준/b1461_도서관.md)         |        [💻](백준/b1461_도서관.java)         |        ❌        |
 | 23.11.29 | [b16928](https://www.acmicpc.net/problem/16928) | 뱀과 사다리 게임        | BFS, DFS                       | gold 5   |    [📘](백준/b16928_뱀과사다리게임.md)    |    [💻](백준/b16928_뱀과사다리게임.java)    |        ❌        |
 | 23.11.30 | [b19238](https://www.acmicpc.net/problem/19238) | 스타트택시              | BFS, DFS/구현                  | gold 2   |      [📘](백준/b19238_스타트택시.md)      |      [💻](백준/b19238_스타트택시.java)      |        🔺        |
+| 24.02.05 | [b2252](https://www.acmicpc.net/problem/2252)   | 줄세우기                | 그래프이론 / 위상정렬              | gold 3   |       [📘](백준/b2252_줄세우기.md)        |       [💻](백준/b2252_줄세우기.java)        |       ⭕️        |
 
 </div>
 </details>
