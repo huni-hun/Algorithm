@@ -143,6 +143,7 @@
 | 23.11.29 | [b16928](https://www.acmicpc.net/problem/16928) | 뱀과 사다리 게임        | BFS, DFS                       | gold 5   |    [📘](백준/b16928_뱀과사다리게임.md)    |    [💻](백준/b16928_뱀과사다리게임.java)    |        ❌        |
 | 23.11.30 | [b19238](https://www.acmicpc.net/problem/19238) | 스타트택시              | BFS, DFS/구현                  | gold 2   |      [📘](백준/b19238_스타트택시.md)      |      [💻](백준/b19238_스타트택시.java)      |        🔺        |
 | 24.02.05 | [b2252](https://www.acmicpc.net/problem/2252)   | 줄세우기                | 그래프이론 / 위상정렬              | gold 3   |       [📘](백준/b2252_줄세우기.md)        |       [💻](백준/b2252_줄세우기.java)        |       ⭕️        |
+| 23.02.05 | [b11403](https://www.acmicpc.net/problem/11403) | 경로찾기              | 그래프이론 /플로이드-와샬                  | silver 1   |      [📘](백준/b11403_경로찾기.md)      |      [💻](백준/b11403_경로찾기.java)      |        🔺        |
 
 </div>
 </details>
