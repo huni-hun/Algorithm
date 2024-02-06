@@ -149,6 +149,7 @@
 | 24.02.05 | [b16236](https://www.acmicpc.net/problem/16236) | 아기 상어        | 그래프이론 / DFS, BFS                       | gold 3   |    [📘](백준/b16236_아기상어.md)    |    [💻](백준/b16236_아기상어.java)    |        ❌        |
 | 24.02.05 | [b14500](https://www.acmicpc.net/problem/14500) | 테트로미노        | 구현 / 브루트포스                       | gold 4   |    [📘](백준/b14500_테트로미노.md)    |    [💻](백준/b14500_테트로미노.java)    |        ❌        |
 | 24.02.06 | [b1339](https://www.acmicpc.net/problem/1339) | 단어수학        | 그리디                       | gold 4   |    [📘](백준/b1339_단어수학.md)    |    [💻](백준/b1339_단어수학.java)    |        🔺        |
+| 24.02.06 | [b3190](https://www.acmicpc.net/problem/3190) | 뱀        | 구현 / 자료구조                        | gold 4   |    [📘](백준/b3190_뱀.md)    |    [💻](백준/b3190_뱀.java)    |        ❌        |
 
 </div>
 </details>
