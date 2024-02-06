@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (136문제)</summary>
+  <summary>📁 백준 (137문제)</summary>
   </br>
   
 <div markdown="1">
@@ -148,6 +148,7 @@
 | 24.02.05 | [b11404](https://www.acmicpc.net/problem/11404) | 플로이드        | 그래프이론 / 다익스트라                       | gold 4   |    [📘](백준/b11404_플로이드.md)    |    [💻](백준/b11404_플로이드.java)    |        ❌        |
 | 24.02.05 | [b16236](https://www.acmicpc.net/problem/16236) | 아기 상어        | 그래프이론 / DFS, BFS                       | gold 3   |    [📘](백준/b16236_아기상어.md)    |    [💻](백준/b16236_아기상어.java)    |        ❌        |
 | 24.02.05 | [b14500](https://www.acmicpc.net/problem/14500) | 테트로미노        | 구현 / 브루트포스                       | gold 4   |    [📘](백준/b14500_테트로미노.md)    |    [💻](백준/b14500_테트로미노.java)    |        ❌        |
+| 24.02.06 | [b1339](https://www.acmicpc.net/problem/1339) | 단어수학        | 그리디                       | gold 4   |    [📘](백준/b1339_단어수학.md)    |    [💻](백준/b1339_단어수학.java)    |        🔺        |
 
 </div>
 </details>
