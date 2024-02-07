@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (137문제)</summary>
+  <summary>📁 백준 (138문제)</summary>
   </br>
   
 <div markdown="1">
@@ -150,6 +150,7 @@
 | 24.02.05 | [b14500](https://www.acmicpc.net/problem/14500) | 테트로미노        | 구현 / 브루트포스                       | gold 4   |    [📘](백준/b14500_테트로미노.md)    |    [💻](백준/b14500_테트로미노.java)    |        ❌        |
 | 24.02.06 | [b1339](https://www.acmicpc.net/problem/1339) | 단어수학        | 그리디                       | gold 4   |    [📘](백준/b1339_단어수학.md)    |    [💻](백준/b1339_단어수학.java)    |        🔺        |
 | 24.02.06 | [b3190](https://www.acmicpc.net/problem/3190) | 뱀        | 구현 / 자료구조                        | gold 4   |    [📘](백준/b3190_뱀.md)    |    [💻](백준/b3190_뱀.java)    |        ❌        |
+| 24.02.07 | [b17136](https://www.acmicpc.net/problem/17136) | 감시        | 구현 / 시뮬레이션                        | gold 4   |    [📘](백준/b17136_감시.md)    |    [💻](백준/b17136_감시.java)    |        ❌        |
 
 </div>
 </details>
