@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (140문제)</summary>
+  <summary>📁 백준 (145문제)</summary>
   </br>
   
 <div markdown="1">
@@ -150,12 +150,13 @@
 | 24.02.05 | [b14500](https://www.acmicpc.net/problem/14500) | 테트로미노        | 구현 / 브루트포스                       | gold 4   |    [📘](백준/b14500_테트로미노.md)    |    [💻](백준/b14500_테트로미노.java)    |        ❌        |
 | 24.02.06 | [b1339](https://www.acmicpc.net/problem/1339) | 단어수학        | 그리디                       | gold 4   |    [📘](백준/b1339_단어수학.md)    |    [💻](백준/b1339_단어수학.java)    |        🔺        |
 | 24.02.06 | [b3190](https://www.acmicpc.net/problem/3190) | 뱀        | 구현 / 자료구조                        | gold 4   |    [📘](백준/b3190_뱀.md)    |    [💻](백준/b3190_뱀.java)    |        ❌        |
-| 24.02.07 | [b17136](https://www.acmicpc.net/problem/17136) | 감시        | 구현 / 시뮬레이션                        | gold 4   |    [📘](백준/b17136_감시.md)    |    [💻](백준/b17136_감시.java)    |        ❌        |
+| 24.02.07 | [b17136](https://www.acmicpc.net/problem/17136) | 감시        | 구현, 시뮬레이션                        | gold 4   |    [📘](백준/b17136_감시.md)    |    [💻](백준/b17136_감시.java)    |        ❌        |
 | 24.03.27 | [b12886](https://www.acmicpc.net/problem/12886) | 돌그룹        | DFS, BFS                        | gold 4   |    [📘](백준/b12886_돌그룹.md)    |    [💻](백준/b12886_돌그룹.java)    |        ❌        |
 | 24.03.27 | [b17404](https://www.acmicpc.net/problem/17404) | RGB거리2        | DP                        | gold 4   |    [📘](백준/b17404_DGB거리2.md)    |    [💻](백준/b17404_DGB거리2.java)    |        🔺        |
 | 24.03.27 | [b1956](https://www.acmicpc.net/problem/1956) | 운동        | 그래프이론 /플로이드-와샬                       | gold 4   |    [📘](백준/b1956_운동.md)    |    [💻](백준/b1956_운동.java)    |       ❌        |
 | 24.03.28 | [b4991](https://www.acmicpc.net/problem/4991) | 로봇청소기        | 그래프이론 / DFS, BFS / 완전탐색                       | gold 1   |    [📘](백준/b4991_로봇청소기.md)    |    [💻](백준/b4991_로봇청소기.java)    |       ⭕️        |
 | 24.03.28 | [b14442](https://www.acmicpc.net/problem/14442) | 벽 부수고 이동하기2        | DFS, BFS                        | gold 3   |    [📘](백준/b14442_벽부수고이동하기2.md)    |    [💻](백준/b14442_벽부수고이동하기2.java)    |        ❌        |
+| 24.03.28 | [b2638](https://www.acmicpc.net/problem/2638) | 치즈      | 구현, 시뮬레이션 / DFS, BFS                        | gold 3   |    [📘](백준/b2638_치즈.md)    |    [💻](백준/b2638_치즈.java)    |        ❌        |
 
 
 
