@@ -155,6 +155,7 @@
 | 24.03.27 | [b17404](https://www.acmicpc.net/problem/17404) | RGB거리2        | DP                        | gold 4   |    [📘](백준/b17404_DGB거리2.md)    |    [💻](백준/b17404_DGB거리2.java)    |        🔺        |
 | 24.03.27 | [b1956](https://www.acmicpc.net/problem/1956) | 운동        | 그래프이론 /플로이드-와샬                       | gold 4   |    [📘](백준/b1956_운동.md)    |    [💻](백준/b1956_운동.java)    |       ❌        |
 | 24.03.28 | [b4991](https://www.acmicpc.net/problem/4991) | 로봇청소기        | 그래프이론 / DFS, BFS / 완전탐색                       | gold 1   |    [📘](백준/b4991_로봇청소기.md)    |    [💻](백준/b4991_로봇청소기.java)    |       ⭕️        |
+| 24.03.28 | [b14442](https://www.acmicpc.net/problem/14442) | 벽 부수고 이동하기2        | DFS, BFS                        | gold 3   |    [📘](백준/b14442_벽부수고이동하기2.md)    |    [💻](백준/b14442_벽부수고이동하기2.java)    |        ❌        |
 
 
 
