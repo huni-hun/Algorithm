@@ -157,6 +157,7 @@
 | 24.03.28 | [b4991](https://www.acmicpc.net/problem/4991) | 로봇청소기        | 그래프이론 / DFS, BFS / 완전탐색                       | gold 1   |    [📘](백준/b4991_로봇청소기.md)    |    [💻](백준/b4991_로봇청소기.java)    |       ⭕️        |
 | 24.03.28 | [b14442](https://www.acmicpc.net/problem/14442) | 벽 부수고 이동하기2        | DFS, BFS                        | gold 3   |    [📘](백준/b14442_벽부수고이동하기2.md)    |    [💻](백준/b14442_벽부수고이동하기2.java)    |        ❌        |
 | 24.03.28 | [b2638](https://www.acmicpc.net/problem/2638) | 치즈      | 구현, 시뮬레이션 / DFS, BFS                        | gold 3   |    [📘](백준/b2638_치즈.md)    |    [💻](백준/b2638_치즈.java)    |        ❌        |
+| 24.03.29 | [b1937](https://www.acmicpc.net/problem/1937) | 욕심쟁이판다        | DP / DFS, BFS                   | gold 4   |    [📘](백준/b1937_욕심쟁이판다.md)    |    [💻](백준/b1937_욕심쟁이판다.java)    |        🔺        |
 
 
 
