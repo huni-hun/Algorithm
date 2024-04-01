@@ -158,7 +158,7 @@
 | 24.03.28 | [b14442](https://www.acmicpc.net/problem/14442) | 벽 부수고 이동하기2        | DFS, BFS                        | gold 3   |    [📘](백준/b14442_벽부수고이동하기2.md)    |    [💻](백준/b14442_벽부수고이동하기2.java)    |        ❌        |
 | 24.03.28 | [b2638](https://www.acmicpc.net/problem/2638) | 치즈      | 구현, 시뮬레이션 / DFS, BFS                        | gold 3   |    [📘](백준/b2638_치즈.md)    |    [💻](백준/b2638_치즈.java)    |        ❌        |
 | 24.03.29 | [b1937](https://www.acmicpc.net/problem/1937) | 욕심쟁이판다        | DP / DFS, BFS                   | gold 4   |    [📘](백준/b1937_욕심쟁이판다.md)    |    [💻](백준/b1937_욕심쟁이판다.java)    |        🔺        |
-
+| 24.04.01 | [b21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기     | 구현, 시뮬레이션               | gold 5   |    [📘](백준/b21610_마법사상어와비바라기.md)    |    [💻](백준/b21610_마법사상어와비바라기.java)    |        ❌        |
 
 
 </div>
