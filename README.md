@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (145문제)</summary>
+  <summary>📁 백준 (146문제)</summary>
   </br>
   
 <div markdown="1">
@@ -161,6 +161,7 @@
 | [b21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기     | 구현, 시뮬레이션               |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/11.svg"/>     |    [📘](백준/b21610_마법사상어와비바라기.md)    |    [💻](백준/b21610_마법사상어와비바라기.java)    |        ❌        |
 | [b20056](https://www.acmicpc.net/problem/20056) | 마법사 상어와 파이어볼     | 구현, 시뮬레이션               |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/>     |    [📘](백준/b20056_마법사상어와파이어볼.md)    |    [💻](백준/b20056_마법사상어와파이어볼.java)    |        ❌        |
 | [b2234](https://www.acmicpc.net/problem/2234) | 성곽     | DFS, BFS               |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/>     |    [📘](백준/b2234_성곽.md)    |    [💻](백준/b2234_성곽.java)    |        ❌        |
+| [b11559](https://www.acmicpc.net/problem/11559) | PuyoPuyo     | DFS, BFS / 구현, 시뮬레이션     |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/>     |    [📘](백준/b11559_PuyoPuyo.md)    |    [💻](백준/b11559_PuyoPuyo.java)    |        ❌        |
 
 
 </div>
