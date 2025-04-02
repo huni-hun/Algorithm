@@ -5,7 +5,7 @@
 #### Problem List
 
 <details>
-  <summary>📁 백준 (148문제)</summary>
+  <summary>📁 백준 (149문제)</summary>
   </br>
   
 <div markdown="1">
@@ -164,6 +164,7 @@
 | [b11559](https://www.acmicpc.net/problem/11559) | PuyoPuyo     | DFS, BFS / 구현, 시뮬레이션     |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/>     |    [📘](백준/b11559_PuyoPuyo.md)    |    [💻](백준/b11559_PuyoPuyo.java)    |        ❌        |
 | [b14226](https://www.acmicpc.net/problem/14226) | 이모티콘     | DFS, BFS    |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/>     |    [📘](백준/b14226_이모티콘.md)    |    [💻](백준/b14226_이모티콘.java)    |        ❌        |
 | [b15684](https://www.acmicpc.net/problem/15684) | 사다리 조작     | DFS, BFS / 완전탐색   |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/13.svg"/>     |    [📘](백준/b15684_사다리조작.md)    |    [💻](백준/b15684_사다리조작.java)    |        ❌        |
+| [b1922](https://www.acmicpc.net/problem/1922) | 네트워크연결     | 그래프이론   |  <img height="20px" width="20px" align="center" src="https://static.solved.ac/tier_small/12.svg"/>     |    [📘](백준/b1922_네트워크연결.md)    |    [💻](백준/b1922_네트워크연결.java)    |        ❌        |
 
 
 </div>
